@@ -4,3 +4,6 @@ Walk Slowly
 Make food
 Cook the food.
 take a bath
+Master Python
+Finish Studies.
+Cook Dinner
