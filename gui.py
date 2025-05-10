@@ -33,7 +33,7 @@ while True:
         case "Add":
             todos = functions.get_todos()
             new_todo = values['todo'] + "\n"
-            if len(new_todo) > 0:
+            if len(new_todo) > 1:
                 todos.append(new_todo)
                 functions.write_todos(todos)
                 window['todos'].update(values=todos)
