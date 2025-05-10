@@ -2,7 +2,6 @@ Run Fast.
 Eating food
 Perform
 Make food
-Cook the dinner
 take a bath
 Master Python
 Finish Studies.
